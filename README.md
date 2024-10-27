@@ -7,7 +7,7 @@
 - **Địa điểm**: Thái Bình, Việt Nam
 
 ## 💻 Về mình
-Mình yêu thích code và tạo ra các dự án dễ dàng, tiện lợi. Đam mê công nghệ từ sớm, mình luôn muốn tự học và khám phá những công nghệ mới. Hiện tại, mình đang xây dựng và phát triển các dự án hữu ích cho cộng đồng, từ ứng dụng web đơn giản đến bot Telegram.
+Mình là một người đam mê công nghệ và rất thích lập trình. Từ khi còn nhỏ, mình đã bắt đầu tìm hiểu về công nghệ và luôn khao khát tự học, khám phá những điều mới mẻ. Hiện tại, mình đang tập trung vào việc xây dựng và phát triển các dự án hữu ích cho cộng đồng, từ những ứng dụng web đơn giản cho đến các bot Telegram.
 
 ## 🔗 Liên hệ với mình
 - 🌐 **Website**: [phucanhdev.site](https://phucanhdev.site)
@@ -25,9 +25,9 @@ Mình yêu thích code và tạo ra các dự án dễ dàng, tiện lợi. Đam
 - Triển khai website bán key và các ứng dụng hỗ trợ
 
 ## 🌱 Vài điều về mình
-Mình luôn cố gắng học hỏi và nâng cao kỹ năng để mang lại những sản phẩm chất lượng nhất. 
+Mình luôn cố gắng học hỏi để nâng cao kỹ năng của bản thân, nhằm mang đến những sản phẩm chất lượng nhất cho mọi người. 
 
 ## 📊 Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhucAnhIT&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-Cảm ơn bạn đã ghé qua hồ sơ của mình! Nếu có bất kỳ câu hỏi nào, đừng ngại liên hệ với mình nhé. 😊
+Cảm ơn bạn đã ghé qua hồ sơ của mình! Nếu bạn có bất kỳ câu hỏi nào hoặc chỉ đơn giản là muốn trò chuyện, đừng ngần ngại liên hệ với mình nhé. 😊
